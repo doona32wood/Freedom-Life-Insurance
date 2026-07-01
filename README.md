@@ -24,6 +24,8 @@ The Freedom Life Insurance platform redefines how individuals manage their finan
 * **Environment**: Node.js & npm package management
 
 ---
+* **Name**: Doona Wood
+* **Website**: [Freedom Life Insurance](https://www.freedominsurance.com.co)
 
 ## Getting Started
 
